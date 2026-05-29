@@ -1,0 +1,3547 @@
+{
+  "importedAt": "2026-05-29T13:16:22.793Z",
+  "companies": [
+    {
+      "id": "c-0",
+      "name": "50 01 Studio d'Architecture",
+      "address": "103 Av. du Gén. de Gaulle, Blanquefort",
+      "phone": "06 16 97 18 26",
+      "email": "cinquantejanvier@orange.fr",
+      "website": "cinquantejanvier.com",
+      "specialty": "Agence d'architecture",
+      "zone": "BLANQUEFORT",
+      "status": "a_contacter",
+      "lat": 44.907,
+      "lng": -0.628,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.763Z",
+      "updatedAt": "2026-05-29T13:16:22.780Z"
+    },
+    {
+      "id": "c-1",
+      "name": "Bassi Bruno — Architecte",
+      "address": "1 Rue François Mauriac, Blanquefort",
+      "phone": "06 76 92 40 99",
+      "email": "",
+      "website": "bassi-architecte.fr",
+      "specialty": "Maîtrise d'œuvre & architecture intérieure",
+      "zone": "BLANQUEFORT",
+      "status": "a_contacter",
+      "lat": 44.90701359999345,
+      "lng": -0.6280000115599972,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.781Z",
+      "updatedAt": "2026-05-29T13:16:22.781Z"
+    },
+    {
+      "id": "c-2",
+      "name": "Home Conseils",
+      "address": "20 Rue André Deris, Blanquefort /                   10 Pl. Paul et Jean Paul Avisseau, 33300 Bordeaux",
+      "phone": "06 34 11 51 13",
+      "email": "vmirat@home-conseils.com",
+      "website": "home-conseils.com",
+      "specialty": "Maîtrise d'œuvre & architecture intérieure",
+      "zone": "BLANQUEFORT",
+      "status": "a_contacter",
+      "lat": 44.90702719994759,
+      "lng": -0.6280000462399554,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.781Z",
+      "updatedAt": "2026-05-29T13:16:22.781Z"
+    },
+    {
+      "id": "c-3",
+      "name": "Act' Architecture",
+      "address": "13 Rue des Treytins, Eysines",
+      "phone": "05 56 85 41 01",
+      "email": "act@act-architecture.fr",
+      "website": "act-architecture.fr",
+      "specialty": "Architecture tous projets",
+      "zone": "EYSINES",
+      "status": "a_contacter",
+      "lat": 44.885,
+      "lng": -0.643,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.781Z",
+      "updatedAt": "2026-05-29T13:16:22.781Z"
+    },
+    {
+      "id": "c-4",
+      "name": "Moca Atelier d'Architecture",
+      "address": "27 bis Rue du Breteil, Eysines",
+      "phone": "05 56 05 50 97",
+      "email": "contact@moca-architecture.com",
+      "website": "moca-architecture.com",
+      "specialty": "Architecture pro & rénovation",
+      "zone": "EYSINES",
+      "status": "a_contacter",
+      "lat": 44.88501359999345,
+      "lng": -0.6430000115599972,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.781Z",
+      "updatedAt": "2026-05-29T13:16:22.781Z"
+    },
+    {
+      "id": "c-5",
+      "name": "AB 2 C",
+      "address": "25 Av. de la Croix du Golf, Eysines",
+      "phone": "06 61 53 48 50",
+      "email": "",
+      "website": "ab2c-maitredoeuvre.fr",
+      "specialty": "Architecture",
+      "zone": "EYSINES",
+      "status": "a_contacter",
+      "lat": 44.885027199947594,
+      "lng": -0.6430000462399554,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.781Z",
+      "updatedAt": "2026-05-29T13:16:22.781Z"
+    },
+    {
+      "id": "c-6",
+      "name": "Atelier Conceptuel(le) — D. Dumas",
+      "address": "144 Av. du Médoc, Eysines",
+      "phone": "06 60 19 05 84",
+      "email": "ddumas.archi@gmail.com",
+      "website": "atelier-conceptuel.fr",
+      "specialty": "Architecture tertiaire / commerce / habitat",
+      "zone": "EYSINES",
+      "status": "a_contacter",
+      "lat": 44.88504079982313,
+      "lng": -0.6430001040397745,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.781Z",
+      "updatedAt": "2026-05-29T13:16:22.781Z"
+    },
+    {
+      "id": "c-7",
+      "name": "Samantha Labrousse — Archi d'intérieur",
+      "address": "16 Rue de l'Hermite, Bruges",
+      "phone": "06 81 66 32 48",
+      "email": "slabrousse.contact@gmail.com",
+      "website": "slabroussearchitecte.com",
+      "specialty": "Architecture intérieure & décoration",
+      "zone": "BRUGES",
+      "status": "a_contacter",
+      "lat": 44.875,
+      "lng": -0.607,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.781Z",
+      "updatedAt": "2026-05-29T13:16:22.781Z"
+    },
+    {
+      "id": "c-8",
+      "name": "Stéphane Quinquis Architecture",
+      "address": "8 ter Ch. de la Hutte, Bruges",
+      "phone": "05 57 54 09 55",
+      "email": "arquis@wanadoo.fr",
+      "website": "arquis-architecture.fr",
+      "specialty": "Architecture résidentielle & équipements",
+      "zone": "BRUGES",
+      "status": "a_contacter",
+      "lat": 44.87501359999345,
+      "lng": -0.6070000115599972,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.782Z",
+      "updatedAt": "2026-05-29T13:16:22.782Z"
+    },
+    {
+      "id": "c-9",
+      "name": "Arsène Henry Luc & Triaud Alain",
+      "address": "7 Av. Raymond Manaud, Bruges",
+      "phone": "05 56 69 35 10",
+      "email": "agence@arsene-henry-triaud.fr",
+      "website": "lahat-architectes.com",
+      "specialty": "Cabinet d'architectes associés",
+      "zone": "BRUGES",
+      "status": "a_contacter",
+      "lat": 44.875027199947596,
+      "lng": -0.6070000462399554,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.782Z",
+      "updatedAt": "2026-05-29T13:16:22.782Z"
+    },
+    {
+      "id": "c-10",
+      "name": "ABAK Ingénierie Aquitaine",
+      "address": "1 bis Pass. Abel Bonnet, Bruges",
+      "phone": "05 56 51 23 06",
+      "email": "abak.aquitaine@quarco.fr",
+      "website": "abak-ingenierie.com",
+      "specialty": "Bureau d'études bâtiment / ingénierie",
+      "zone": "BRUGES",
+      "status": "a_contacter",
+      "lat": 44.87504079982313,
+      "lng": -0.6070001040397744,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.782Z",
+      "updatedAt": "2026-05-29T13:16:22.782Z"
+    },
+    {
+      "id": "c-11",
+      "name": "ARCHI'DEMAIN",
+      "address": "9 Rue du Cdnt Charcot, Le Bouscat",
+      "phone": "07 86 71 68 03",
+      "email": "so.magdelaine@gmail.com",
+      "website": "archidemain.fr",
+      "specialty": "Architecture rénovation & extension",
+      "zone": "LE BOUSCAT",
+      "status": "a_contacter",
+      "lat": 44.865,
+      "lng": -0.59,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.782Z",
+      "updatedAt": "2026-05-29T13:16:22.782Z"
+    },
+    {
+      "id": "c-12",
+      "name": "Marie Le Pors Architecte",
+      "address": "15 Rue des Écus, Le Bouscat",
+      "phone": "06 74 15 63 96",
+      "email": "compose.marielepors@gmail.com",
+      "website": "architecte-marie-le-pors.fr",
+      "specialty": "Architecture (rénovation, construction)",
+      "zone": "LE BOUSCAT",
+      "status": "a_contacter",
+      "lat": 44.86501359999345,
+      "lng": -0.5900000115599972,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.782Z",
+      "updatedAt": "2026-05-29T13:16:22.782Z"
+    },
+    {
+      "id": "c-13",
+      "name": "Denis Lecat Architecte DPLG",
+      "address": "41 Rue des Écus, Le Bouscat",
+      "phone": "06 62 23 89 38",
+      "email": "denis_lecat@bbox.fr",
+      "website": "denislecat.com",
+      "specialty": "Architecture DPLG",
+      "zone": "LE BOUSCAT",
+      "status": "a_contacter",
+      "lat": 44.8650271999476,
+      "lng": -0.5900000462399554,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.782Z",
+      "updatedAt": "2026-05-29T13:16:22.782Z"
+    },
+    {
+      "id": "c-14",
+      "name": "David Bonamy Dumont — Archi Int.",
+      "address": "21 Av. Sadi Carnot, Le Bouscat",
+      "phone": "06 89 02 89 48",
+      "email": "",
+      "website": "Instagram",
+      "specialty": "Architecture d'intérieur & décoration",
+      "zone": "LE BOUSCAT",
+      "status": "a_contacter",
+      "lat": 44.865040799823134,
+      "lng": -0.5900001040397744,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.782Z",
+      "updatedAt": "2026-05-29T13:16:22.782Z"
+    },
+    {
+      "id": "c-15",
+      "name": "Atelier Aquitain d'Architectes (4A)",
+      "address": "84 Av. JF Kennedy, Mérignac",
+      "phone": "05 56 34 62 62",
+      "email": "agence@4a-architectes.fr",
+      "website": "4a-architectes.com",
+      "specialty": "Agence d'architectes associés",
+      "zone": "MÉRIGNAC",
+      "status": "a_contacter",
+      "lat": 44.832,
+      "lng": -0.625,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.782Z",
+      "updatedAt": "2026-05-29T13:16:22.782Z"
+    },
+    {
+      "id": "c-16",
+      "name": "Origine Structures",
+      "address": "4 Rue de Candale, 33000 Bordeaux",
+      "phone": "06 50 30 68 62",
+      "email": "contact@be-origine.com",
+      "website": "origine-structures.fr",
+      "specialty": "BE bois · béton · métal",
+      "zone": "MÉRIGNAC",
+      "status": "a_contacter",
+      "lat": 44.83201359999345,
+      "lng": -0.6250000115599972,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.783Z",
+      "updatedAt": "2026-05-29T13:16:22.783Z"
+    },
+    {
+      "id": "c-17",
+      "name": "CUBE INGÉNIEURS",
+      "address": "371 Av. Thiers, 33100 Bordeaux",
+      "phone": "05 54 51 91 98",
+      "email": "yusta@cubeingenieurs.fr",
+      "website": "cube-ingenieurs.fr",
+      "specialty": "BE structure & bioclimatique",
+      "zone": "MÉRIGNAC",
+      "status": "a_contacter",
+      "lat": 44.832027199947596,
+      "lng": -0.6250000462399554,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.783Z",
+      "updatedAt": "2026-05-29T13:16:22.783Z"
+    },
+    {
+      "id": "c-18",
+      "name": "MonProjetBois.com",
+      "address": "112 Cours Gambetta, 33150 Cenon",
+      "phone": "06 52 46 88 67",
+      "email": "info@monprojetbois.com",
+      "website": "monprojetbois.com",
+      "specialty": "BE structure bois",
+      "zone": "MÉRIGNAC",
+      "status": "a_contacter",
+      "lat": 44.83204079982313,
+      "lng": -0.6250001040397745,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.783Z",
+      "updatedAt": "2026-05-29T13:16:22.783Z"
+    },
+    {
+      "id": "c-19",
+      "name": "BEB Bureau d'Études Béton",
+      "address": "Parc INNOLIN, 8 Rue du Golf, 33700 Mérignac",
+      "phone": "06 59 84 81 27",
+      "email": "s.gasmi@bureau-etude-beton.fr",
+      "website": "https://bureau-etude-beton.fr/",
+      "specialty": "BE béton armé",
+      "zone": "MÉRIGNAC",
+      "status": "a_contacter",
+      "lat": 44.83205439958076,
+      "lng": -0.6250001849592873,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.783Z",
+      "updatedAt": "2026-05-29T13:16:22.783Z"
+    },
+    {
+      "id": "c-20",
+      "name": "Bureau d'Études VIVIEN",
+      "address": "97 Av. Edmond Rostand, 33700 Mérignac",
+      "phone": "05 56 40 68 10",
+      "email": "contact@be-vivien.fr",
+      "website": "https://be-vivien.fr/",
+      "specialty": "BE technique bâtiment",
+      "zone": "MÉRIGNAC",
+      "status": "a_contacter",
+      "lat": 44.83206799918117,
+      "lng": -0.62500028899826,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.783Z",
+      "updatedAt": "2026-05-29T13:16:22.783Z"
+    },
+    {
+      "id": "c-21",
+      "name": "ABETEC — BE Structure",
+      "address": "4 Allée Bel Air, 33370 Artigues-près-Bordeaux",
+      "phone": "06 58 03 65 65",
+      "email": "info@abetec.fr",
+      "website": "https://www.abetec.fr/",
+      "specialty": "BE structure",
+      "zone": "MÉRIGNAC",
+      "status": "a_contacter",
+      "lat": 44.83208159858506,
+      "lng": -0.6250004161563919,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.783Z",
+      "updatedAt": "2026-05-29T13:16:22.783Z"
+    },
+    {
+      "id": "c-22",
+      "name": "BD Fluides",
+      "address": "18 Rue Gratiolet, 33000 Bordeaux",
+      "phone": "—",
+      "email": "",
+      "website": "bdfluides.fr",
+      "specialty": "BE thermique & fluides",
+      "zone": "MÉRIGNAC",
+      "status": "a_contacter",
+      "lat": 44.83209519775314,
+      "lng": -0.6250005664333156,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.783Z",
+      "updatedAt": "2026-05-29T13:16:22.783Z"
+    },
+    {
+      "id": "c-23",
+      "name": "ETC Ingénierie",
+      "address": "57 bis Cours Pasteur, 33000 Bordeaux",
+      "phone": "06 09 24 61 45",
+      "email": "edith@etc-ingenierie.com",
+      "website": "etc-ingenierie.com",
+      "specialty": "BE fluides & CVC",
+      "zone": "MÉRIGNAC",
+      "status": "a_contacter",
+      "lat": 44.83210879664609,
+      "lng": -0.6250007398285967,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.783Z",
+      "updatedAt": "2026-05-29T13:16:22.783Z"
+    },
+    {
+      "id": "c-24",
+      "name": "Etba Thomas",
+      "address": "124B Av. du Château d'Eau, 33702 Mérignac",
+      "phone": "05 40 25 07 01",
+      "email": "accueil@etba.fr",
+      "website": "https://www.etbathomas.fr/",
+      "specialty": "BE technique bâtiment",
+      "zone": "MÉRIGNAC",
+      "status": "a_contacter",
+      "lat": 44.83212239522462,
+      "lng": -0.6250009363417341,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.783Z",
+      "updatedAt": "2026-05-29T13:16:22.783Z"
+    },
+    {
+      "id": "c-25",
+      "name": "Edeis Ingénierie Bordeaux",
+      "address": "79 Av. JFK Imm. le Ferry, 33700 Mérignac",
+      "phone": "05 57 92 80 40",
+      "email": "",
+      "website": "edeis.fr",
+      "specialty": "BE multi-corps d'état",
+      "zone": "MÉRIGNAC",
+      "status": "a_contacter",
+      "lat": 44.83213599344943,
+      "lng": -0.62500115597216,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.783Z",
+      "updatedAt": "2026-05-29T13:16:22.783Z"
+    },
+    {
+      "id": "c-26",
+      "name": "In Situ Maîtrise d'Œuvre",
+      "address": "29 Pl. des Martyrs de la Résistance, 33000 Bordeaux",
+      "phone": "05 24 72 46 69",
+      "email": "remydetapol@yahoo.fr",
+      "website": "https://www.insitumaitrisedoeuvre.com/",
+      "specialty": "MOE architecture & rénovation",
+      "zone": "MÉRIGNAC",
+      "status": "a_contacter",
+      "lat": 44.832149591281215,
+      "lng": -0.6250013987192394,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.783Z",
+      "updatedAt": "2026-05-29T13:16:22.783Z"
+    },
+    {
+      "id": "c-27",
+      "name": "Morphée — Maître d'œuvre",
+      "address": "86bis Rue Arago, 33300 Bordeaux",
+      "phone": "09 70 66 98 02",
+      "email": "contact@morphee.fr",
+      "website": "https://morphee.fr",
+      "specialty": "MOE rénovation · extension · surélévation",
+      "zone": "MÉRIGNAC",
+      "status": "a_contacter",
+      "lat": 44.83216318868068,
+      "lng": -0.6250016645822711,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.783Z",
+      "updatedAt": "2026-05-29T13:16:22.783Z"
+    },
+    {
+      "id": "c-28",
+      "name": "EVEN BTP Maîtrise d'Œuvre VRD",
+      "address": "126 Rue Laharpe, 33110 Le Bouscat",
+      "phone": "05 56 42 62 05",
+      "email": "",
+      "website": "https://www.even-btp.fr/",
+      "specialty": "MOE VRD & infrastructure",
+      "zone": "MÉRIGNAC",
+      "status": "a_contacter",
+      "lat": 44.83217678560854,
+      "lng": -0.6250019535604865,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.783Z",
+      "updatedAt": "2026-05-29T13:16:22.783Z"
+    },
+    {
+      "id": "c-29",
+      "name": "FRED BONNET MOE VRD & Paysage",
+      "address": "7 Bd Antoine Gautier, 33000 Bordeaux",
+      "phone": "07 50 97 55 99",
+      "email": "fredbonnet@fb-vrd.fr",
+      "website": "https://fb-vrd.fr/",
+      "specialty": "MOE VRD & paysage",
+      "zone": "MÉRIGNAC",
+      "status": "a_contacter",
+      "lat": 44.83219038202548,
+      "lng": -0.6250022656530506,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.783Z",
+      "updatedAt": "2026-05-29T13:16:22.783Z"
+    },
+    {
+      "id": "c-30",
+      "name": "Maisons Rhéa",
+      "address": "11 Allée de Tourny, 33000 Bordeaux",
+      "phone": "05 25 61 02 65",
+      "email": "",
+      "website": "https://www.maisons-rhea.com/",
+      "specialty": "MOE construction & rénovation",
+      "zone": "MÉRIGNAC",
+      "status": "a_contacter",
+      "lat": 44.83220397789222,
+      "lng": -0.6250026008590613,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.783Z",
+      "updatedAt": "2026-05-29T13:16:22.783Z"
+    },
+    {
+      "id": "c-31",
+      "name": "Bordeaux Bâtisses",
+      "address": "55 Av. du Maréchal Gallieni, 33700 Mérignac",
+      "phone": "06 18 78 81 24",
+      "email": "contact@bordeaux-batisses.fr",
+      "website": "https://bordeaux-batisses.fr/",
+      "specialty": "MOE rénovation & construction",
+      "zone": "MÉRIGNAC",
+      "status": "a_contacter",
+      "lat": 44.832217573169466,
+      "lng": -0.6250029591775501,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.783Z",
+      "updatedAt": "2026-05-29T13:16:22.783Z"
+    },
+    {
+      "id": "c-32",
+      "name": "Benoît Pauleau — Maître d'Œuvre",
+      "address": "99bis Cr Victor Hugo, 33130 Bègles",
+      "phone": "07 83 43 19 49",
+      "email": "benoitpauleau@live.fr",
+      "website": "https://bpauleau.fr/",
+      "specialty": "MOE tous corps d'état",
+      "zone": "MÉRIGNAC",
+      "status": "a_contacter",
+      "lat": 44.832231167817916,
+      "lng": -0.6250033406074812,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.783Z",
+      "updatedAt": "2026-05-29T13:16:22.783Z"
+    },
+    {
+      "id": "c-33",
+      "name": "Arcadis Bordeaux",
+      "address": "Euratlantique, 31 Rue d'Armagnac E1, 33800 Bordeaux",
+      "phone": "05 56 13 16 16",
+      "email": "",
+      "website": "arcadis.com",
+      "specialty": "Ingénierie multidisciplinaire",
+      "zone": "MÉRIGNAC",
+      "status": "a_contacter",
+      "lat": 44.8322447617983,
+      "lng": -0.6250037451477525,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.783Z",
+      "updatedAt": "2026-05-29T13:16:22.783Z"
+    },
+    {
+      "id": "c-34",
+      "name": "A3A Architecture",
+      "address": "49 Quai des Chartrons, 33000 Bordeaux",
+      "phone": "05 57 87 55 33",
+      "email": "contact@a3a.archi",
+      "website": "a3a-architecture.fr",
+      "specialty": "Agence d'architecture",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.837,
+      "lng": -0.571,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.783Z",
+      "updatedAt": "2026-05-29T13:16:22.783Z"
+    },
+    {
+      "id": "c-35",
+      "name": "S+M Architectes",
+      "address": "9 Rue Lana, 33300 Bordeaux",
+      "phone": "05 56 39 12 21",
+      "email": "contact@smarchitectes.com",
+      "website": "smarchitectes.com",
+      "specialty": "Architecture résidentielle & tertiaire",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.837013599993455,
+      "lng": -0.5710000115599971,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.783Z",
+      "updatedAt": "2026-05-29T13:16:22.783Z"
+    },
+    {
+      "id": "c-36",
+      "name": "Fort & Salier Architectes",
+      "address": "167 Rue Fondaudège, 33000 Bordeaux",
+      "phone": "05 56 01 05 29",
+      "email": "fort.salier@gmail.com",
+      "website": "fort-salier-architectes.com",
+      "specialty": "Architecture & maîtrise d'œuvre",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.8370271999476,
+      "lng": -0.5710000462399554,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-37",
+      "name": "Rodde Aragues Architectes",
+      "address": "33 Cours de Luze, 33300 Bordeaux",
+      "phone": "05 57 22 90 35",
+      "email": "contact@ra-architectes.com",
+      "website": "ra-architectes.com",
+      "specialty": "Architecture & équipements (aquatique…)",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.837040799823136,
+      "lng": -0.5710001040397744,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-38",
+      "name": "Atelier Ose Architecture",
+      "address": "106 Rue du Tondu, 33000 Bordeaux",
+      "phone": "07 75 66 85 83",
+      "email": "contact@atelier-ose.eu",
+      "website": "https://www.atelier-ose.eu/",
+      "specialty": "Architecture rénovation & extension",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.837054399580765,
+      "lng": -0.5710001849592873,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-39",
+      "name": "Archidot — Malorie Bertolini",
+      "address": "11 Rue Calvimont, 33100 Bordeaux",
+      "phone": "06 24 34 25 48",
+      "email": "contact@archidot.fr",
+      "website": "archidot.fr",
+      "specialty": "Architecture rénovation & extension",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.83706799918117,
+      "lng": -0.5710002889982599,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-40",
+      "name": "Sajùma Atelier d'Architecture",
+      "address": "9 Cours du Chapeau-Rouge, 33000 Bordeaux",
+      "phone": "06 60 88 42 83",
+      "email": "ateliersajuma@gmail.com",
+      "website": "ateliersajuma.com",
+      "specialty": "Architecture & recherche",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.837081598585065,
+      "lng": -0.5710004161563919,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-41",
+      "name": "Atelier Ferret Architectures",
+      "address": "17 Rue du Commandant Cousteau, 33100 Bordeaux",
+      "phone": "05 57 77 18 25",
+      "email": "archiferret@archiferret.eu",
+      "website": "https://archiferret.eu/fr/",
+      "specialty": "Agence d'architecture",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.83709519775314,
+      "lng": -0.5710005664333155,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-42",
+      "name": "Baudrimont Lacote Architectes",
+      "address": "18 Rue de la Prévôté, 33000 Bordeaux",
+      "phone": "",
+      "email": "contact@bla-agence.com",
+      "website": "bla-agence.com",
+      "specialty": "Cabinet d'architectes associés",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.83710879664609,
+      "lng": -0.5710007398285967,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-43",
+      "name": "Atelier d'Archi Claude Marty",
+      "address": "175 Rue de la Benauge, 33100 Bordeaux",
+      "phone": "09 81 13 95 17",
+      "email": "contact@biec.fr",
+      "website": "claude-marty.com",
+      "specialty": "Atelier d'architecture",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.837122395224625,
+      "lng": -0.5710009363417341,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-44",
+      "name": "Cabinet BIEC",
+      "address": "21 bis Cours Pasteur, 33000 Bordeaux",
+      "phone": "05 56 90 01 54",
+      "email": "contact@claude-marty.com",
+      "website": "biec.fr",
+      "specialty": "Maîtrise d'œuvre & rénovation",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.83713599344943,
+      "lng": -0.57100115597216,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-45",
+      "name": "François Primault Architecte",
+      "address": "43 Rue de Doumerc, 33000 Bordeaux",
+      "phone": "06 87 12 63 03",
+      "email": "contact@das-ma.com",
+      "website": "das-ma.com",
+      "specialty": "Architecture rénovation / matériaux biosourcés",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.83714959128122,
+      "lng": -0.5710013987192394,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-46",
+      "name": "Studio 3i — Florianne Laurent",
+      "address": "Rue de Condé, 33000 Bordeaux",
+      "phone": "‭06 30 32 59 76‬",
+      "email": "info@vaissiestudio.com",
+      "website": "studio3i.fr",
+      "specialty": "Architecture intérieure & décoration",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.837163188680684,
+      "lng": -0.5710016645822711,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-47",
+      "name": "Vaissié Studio",
+      "address": "70 Cours d'Alsace-et-Lorraine, 33000 Bordeaux",
+      "phone": "06 95 88 46 04",
+      "email": "info@vaissiestudio.com",
+      "website": "vaissiestudio.com",
+      "specialty": "Architecture intérieure haut de gamme",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.83717678560854,
+      "lng": -0.5710019535604864,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-48",
+      "name": "Notes de Styles",
+      "address": "9 Rue de Condé, 33000 Bordeaux",
+      "phone": "06 25 73 36 58",
+      "email": "",
+      "website": "notesdestyles.com",
+      "specialty": "Agence architecte intérieur (4.9★/47 avis)",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.83719038202548,
+      "lng": -0.5710022656530506,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-49",
+      "name": "CRÈME Architecture Intérieure",
+      "address": "39 Cours de la Martinique, 33300 Bordeaux",
+      "phone": "06 61 14 58 81",
+      "email": "contact@creme-studio.fr",
+      "website": "creme-studio.fr",
+      "specialty": "Archi intérieure & décoration (5★/34 avis)",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.83720397789222,
+      "lng": -0.5710026008590613,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-50",
+      "name": "Automne Design",
+      "address": "Rue de Saint-Genès, 33000 Bordeaux",
+      "phone": "07 63 58 61 76",
+      "email": "romain.piquet@automne-design.com",
+      "website": "automne-design.com",
+      "specialty": "Architecture d'intérieur & MOE",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.83721757316947,
+      "lng": -0.5710029591775501,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-51",
+      "name": "BÔ M. Architecte d'Intérieur",
+      "address": "49 Rue Ferbeyre, 33200 Bordeaux",
+      "phone": "06 51 18 38 81",
+      "email": "mariegoldstein33@gmail.com",
+      "website": "bo-m.fr",
+      "specialty": "Architecture intérieure & décoration",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.83723116781792,
+      "lng": -0.5710033406074811,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-52",
+      "name": "Nuances & Perspectives",
+      "address": "275 Av. d'Arès, 33000 Bordeaux",
+      "phone": "05 56 24 31 54",
+      "email": "contact@nuancesetperspectives.com​\n\n",
+      "website": "nuancesetperspectives.com",
+      "specialty": "Architecture intérieure (5★/22 avis)",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.8372447617983,
+      "lng": -0.5710037451477524,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-53",
+      "name": "Carole Heinrich Architecte Int.",
+      "address": "9 Rue des Orangers, 33200 Bordeaux",
+      "phone": "06 43 12 39 45",
+      "email": "",
+      "website": "caroleheinrich.com",
+      "specialty": "Architecture intérieure résidentielle",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.83725835507133,
+      "lng": -0.5710041727971946,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-54",
+      "name": "Julie Milleret Architecte",
+      "address": "80 Rue de Lacanau, 33200 Bordeaux",
+      "phone": "07 69 12 67 76",
+      "email": "",
+      "website": "juliemilleret.com",
+      "specialty": "Architecture permis & MOE (4.9★)",
+      "zone": "BORDEAUX CENTRE — AGENCES D'ARCHITECTURE",
+      "status": "a_contacter",
+      "lat": 44.8372719475977,
+      "lng": -0.5710046235545718,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-55",
+      "name": "Atelier Ark — Gary Baudy",
+      "address": "6 Allée Charles Perrault, 33600 Pessac",
+      "phone": "+33 6 62 04 85 64",
+      "email": "agence.ark@gmail.com",
+      "website": "atelierark.com",
+      "specialty": "Architecture permis & rénovation (5★/68 avis)",
+      "zone": "PESSAC · TALENCE (SUD-OUEST DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.837,
+      "lng": -0.571,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-56",
+      "name": "Fabre Andreotti Architecture",
+      "address": "24 Av. Carnot, 33600 Pessac",
+      "phone": "+33 6 16 78 60 24",
+      "email": "fabreandreotti.architecture@gmail.com",
+      "website": "fabre-andreotti-architecture.fr",
+      "specialty": "Architecture & maîtrise d'œuvre",
+      "zone": "PESSAC · TALENCE (SUD-OUEST DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.837013599993455,
+      "lng": -0.5710000115599971,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-57",
+      "name": "SAS Archi Thierry Boutin",
+      "address": "Rés. le Ham. de Noailles B7, 33400 Talence",
+      "phone": "+33 5 56 84 97 55",
+      "email": "contact@tboutin-architecture.com",
+      "website": "tboutin-architecture.com",
+      "specialty": "Agence d'architecture",
+      "zone": "PESSAC · TALENCE (SUD-OUEST DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.8370271999476,
+      "lng": -0.5710000462399554,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-58",
+      "name": "Rigaud Pascal Architecte",
+      "address": "193 Cours Gambetta, 33400 Talence",
+      "phone": "+33 6 07 73 91 47",
+      "email": "rigaud.pascal@akeonet.com",
+      "website": "rigaud-architecte.fr",
+      "specialty": "Architecture (5★)",
+      "zone": "PESSAC · TALENCE (SUD-OUEST DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.837040799823136,
+      "lng": -0.5710001040397744,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-59",
+      "name": "TLM Architecture",
+      "address": "156 Cours du Gén. de Gaulle, 33170 Gradignan",
+      "phone": "+33 9 54 83 55 53",
+      "email": "",
+      "website": "tlm-architecture.fr",
+      "specialty": "Architecture tous projets (4.8★/32 avis)",
+      "zone": "GRADIGNAN · VILLENAVE-D'ORNON (SUD DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.837,
+      "lng": -0.571,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-60",
+      "name": "Site",
+      "address": "URL",
+      "phone": "",
+      "email": "Les incontournables",
+      "website": "",
+      "specialty": "",
+      "zone": "GRADIGNAN · VILLENAVE-D'ORNON (SUD DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.837013599993455,
+      "lng": -0.5710000115599971,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-61",
+      "name": "Indeed",
+      "address": "indeed.com",
+      "phone": "",
+      "email": "Dessinateur-Projeteur Bâtiment",
+      "website": "",
+      "specialty": "",
+      "zone": "GRADIGNAN · VILLENAVE-D'ORNON (SUD DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.8370271999476,
+      "lng": -0.5710000462399554,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-62",
+      "name": "LinkedIn",
+      "address": "linkedin.com",
+      "phone": "",
+      "email": "Dessinateur ArchiCAD",
+      "website": "",
+      "specialty": "",
+      "zone": "GRADIGNAN · VILLENAVE-D'ORNON (SUD DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.837040799823136,
+      "lng": -0.5710001040397744,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-63",
+      "name": "HelloWork",
+      "address": "hellowork.com",
+      "phone": "",
+      "email": "Dessinateur AutoCAD Bâtiment",
+      "website": "",
+      "specialty": "",
+      "zone": "GRADIGNAN · VILLENAVE-D'ORNON (SUD DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.837054399580765,
+      "lng": -0.5710001849592873,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-64",
+      "name": "France Travail (ex Pôle Emploi)",
+      "address": "francetravail.fr",
+      "phone": "",
+      "email": "Dessinateur DAO/CAO Bâtiment",
+      "website": "",
+      "specialty": "",
+      "zone": "GRADIGNAN · VILLENAVE-D'ORNON (SUD DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.83706799918117,
+      "lng": -0.5710002889982599,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-65",
+      "name": "Jooble",
+      "address": "jooble.org",
+      "phone": "",
+      "email": "Dessinateur BIM",
+      "website": "",
+      "specialty": "",
+      "zone": "GRADIGNAN · VILLENAVE-D'ORNON (SUD DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.837081598585065,
+      "lng": -0.5710004161563919,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-66",
+      "name": "Jobijoba",
+      "address": "jobijoba.com",
+      "phone": "",
+      "email": "Avec spécialité BIM",
+      "website": "",
+      "specialty": "",
+      "zone": "GRADIGNAN · VILLENAVE-D'ORNON (SUD DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.83709519775314,
+      "lng": -0.5710005664333155,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-67",
+      "name": "Monster",
+      "address": "monster.fr",
+      "phone": "",
+      "email": "BIM Modeleur (ou Modélisateur BIM)",
+      "website": "",
+      "specialty": "",
+      "zone": "GRADIGNAN · VILLENAVE-D'ORNON (SUD DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.83710879664609,
+      "lng": -0.5710007398285967,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-68",
+      "name": "Cadremploi",
+      "address": "cadremploi.fr",
+      "phone": "",
+      "email": "BIM Coordinator / Coordinateur BIM",
+      "website": "",
+      "specialty": "",
+      "zone": "GRADIGNAN · VILLENAVE-D'ORNON (SUD DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.837122395224625,
+      "lng": -0.5710009363417341,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-69",
+      "name": "APEC",
+      "address": "apec.fr",
+      "phone": "",
+      "email": "Projeteur BIM Bâtiment",
+      "website": "",
+      "specialty": "",
+      "zone": "GRADIGNAN · VILLENAVE-D'ORNON (SUD DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.83713599344943,
+      "lng": -0.57100115597216,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-70",
+      "name": "PMEBTP",
+      "address": "pmebtp.com",
+      "phone": "",
+      "email": "Projeteur Bâtiment (avec Revit, ArchiCAD, AutoCAD)",
+      "website": "",
+      "specialty": "",
+      "zone": "GRADIGNAN · VILLENAVE-D'ORNON (SUD DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.83714959128122,
+      "lng": -0.5710013987192394,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-71",
+      "name": "Batiactu Emploi",
+      "address": "emploi.batiactu.com",
+      "phone": "",
+      "email": "Dessinateur Projeteur Architecte (en agence)",
+      "website": "",
+      "specialty": "",
+      "zone": "GRADIGNAN · VILLENAVE-D'ORNON (SUD DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.837163188680684,
+      "lng": -0.5710016645822711,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-72",
+      "name": "Batijob",
+      "address": "batijob.com",
+      "phone": "",
+      "email": "Assistant Architecte / Chargé d'études",
+      "website": "",
+      "specialty": "",
+      "zone": "GRADIGNAN · VILLENAVE-D'ORNON (SUD DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.83717678560854,
+      "lng": -0.5710019535604864,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-73",
+      "name": "Job-BTP",
+      "address": "job-btp.fr",
+      "phone": "",
+      "email": "Technicien Bureau d'Études Bâtiment",
+      "website": "",
+      "specialty": "",
+      "zone": "GRADIGNAN · VILLENAVE-D'ORNON (SUD DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.83719038202548,
+      "lng": -0.5710022656530506,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-74",
+      "name": "Un Job dans le BTP",
+      "address": "unjobdanslebtp.com",
+      "phone": "",
+      "email": "Dessinateur TCE (Tous Corps d'État)",
+      "website": "",
+      "specialty": "",
+      "zone": "GRADIGNAN · VILLENAVE-D'ORNON (SUD DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.83720397789222,
+      "lng": -0.5710026008590613,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-75",
+      "name": "Batipole",
+      "address": "batipole.fr",
+      "phone": "",
+      "email": "Dessinateur Génie Civil / Structure",
+      "website": "",
+      "specialty": "",
+      "zone": "GRADIGNAN · VILLENAVE-D'ORNON (SUD DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.83721757316947,
+      "lng": -0.5710029591775501,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    },
+    {
+      "id": "c-76",
+      "name": "ClicEmploi BTP",
+      "address": "clicemploi.com",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "specialty": "",
+      "zone": "GRADIGNAN · VILLENAVE-D'ORNON (SUD DE BORDEAUX)",
+      "status": "a_contacter",
+      "lat": 44.83723116781792,
+      "lng": -0.5710033406074811,
+      "notes": [],
+      "checklist": [
+        {
+          "id": "cv",
+          "label": "CV adapté à l'agence",
+          "done": false
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio / book joint",
+          "done": false
+        },
+        {
+          "id": "mail",
+          "label": "Mail de candidature envoyé",
+          "done": false
+        },
+        {
+          "id": "relance7",
+          "label": "Relance J+7 si pas de réponse",
+          "done": false
+        },
+        {
+          "id": "relance14",
+          "label": "Relance J+14",
+          "done": false
+        }
+      ],
+      "events": [],
+      "favorite": false,
+      "mailSentAt": null,
+      "createdAt": "2026-05-29T13:16:22.784Z",
+      "updatedAt": "2026-05-29T13:16:22.784Z"
+    }
+  ]
+}

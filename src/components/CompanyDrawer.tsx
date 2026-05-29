@@ -2,7 +2,7 @@ import { format } from 'date-fns';
 import { fr } from 'date-fns/locale';
 import { ExternalLink, Mail, MapPin, Phone, Star, X } from 'lucide-react';
 import { useState } from 'react';
-import type { Company } from '../types';
+import type { Company, Status } from '../types';
 import { STATUS_CONFIG } from '../types';
 import { buildMailto, fillTemplate, mapsUrl, normalizeWebsite, phoneHref } from '../lib/utils';
 import { useAppStore } from '../store/useAppStore';

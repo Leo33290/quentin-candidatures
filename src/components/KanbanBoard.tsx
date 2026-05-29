@@ -1,4 +1,4 @@
-import type { Company, Status } from '../types';
+import type { Status } from '../types';
 import { STATUS_CONFIG } from '../types';
 import { useAppStore, useFilteredCompanies } from '../store/useAppStore';
 import { CompanyCard } from './CompanyCard';
